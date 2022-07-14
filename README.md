@@ -1,16 +1,16 @@
 # Bikesharing Analysis
 
 ## Overview
-
+- 
 ## Results
 
- - ### Checkout times
+- ### Checkout times
 [checkout_time](/resources/Tripduration.png)
 
- - ### Checkout times by Gender
+- ### Checkout times by Gender
 [checkout_time_gender](/resources/Tripduration_by_gender.png)
 
- - ### August Peak Times
+- ### August Peak Times
 [august_peak](/resources/August%20Peak%20Times.png)
 
 ### - Trips by Weekday
