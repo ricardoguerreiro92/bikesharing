@@ -23,12 +23,13 @@
 ### - Trips by Weekday by Customer Type & Gender
 ![weekday_cust_gend](/resources/Trips_by_gender_customer.png)
 ### - Top Starting Locations
-- The following visualisations show us Citibikes are used mostly in Midtown and Lower Manhattan. With trips averaging between 4-16 minutes the top starting and ending locations are very close/similar to each other.
+- The following visualizations show us Citibikes are used mostly in Midtown and Lower Manhattan. With trips averaging between 4-16 minutes the top starting and ending locations are very close/similar to each other.
 ![start_loc](/resources/Top_starting_locations.png)
 ### - Top Ending Locations
 ![end_loc](/resources/Top_ending_location.png)
 
 ## Summary
-
+- In summary we verified the Peak Usage Times for August were between 6 & 9AM and 5 & 7PM. Riders use Citibike mainly for commuting purposes, therefore the short Ride Times & Peak Times, and men is who use it the most. With this analysis we also verified most of the revenue comes from subscribers which reinforces that Citibike is typically used for work commute.
+- I believe bringing a service such as Citibike to Des Moine could be a good idea considering the fact that the city would become much greener with daily commutes being done on a bicycle, would greatly improve traffic all round and help bring more life into the city with easier and faster access to monuments, museums and other places of interest.
 
 [Bike Sharing Dashboard](https://public.tableau.com/app/profile/ricardo8283/viz/BikesharingChallenge_16575582271690/NYCCitibikeStory "Bike Sharing Dashboard")
